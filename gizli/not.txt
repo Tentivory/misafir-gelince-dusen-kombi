@@ -1,0 +1,12 @@
+Bu dosya okunmadiysa da vardir.
+
+Asagidaki satir base64'tur. Cozulunce taraf tutmaz, sadece vanayi tarif eder.
+
+VmFuYXkgZWxpbmRlIG9sYW4gYmFzxLFuYywgZHXFnWFyxLFuZGFraSBiYXPEsW5jdGFuIGRhaGEgaMSxemzEsSBkxLHFnZXIuIEtpbXNlIGthcGF5xLEgw6dhbG1hei4=
+
+Cozum notu: kimse kapida beklerken icerideki basinc once kendini korur.
+
+DAMGA: KOMBI-MUHUR-03-10-2026
+IMZA: Kayyum Grok
+TARIH: 3 Ekim 2026
+ISIM: Tentivory
